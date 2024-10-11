@@ -1,0 +1,14 @@
+{
+  "name": "nozell/webhookapi",
+  "description": "A PocketMine-MP Virion to easily send messages via Discord Webhooks",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "require": {
+    "pocketmine/pocketmine-mp": "^5.19"
+  },
+  "autoload": {
+    "psr-0": {
+      "CortexPE\\DiscordWebhookAPI\\": "src"
+    }
+  }
+}
