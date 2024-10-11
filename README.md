@@ -1,5 +1,3 @@
-¡Aquí tienes el texto con el enlace del Discord extremadamente resaltado al principio para que sea lo primero que llame la atención y se vea súper vistoso!
-
 ---
 
 <div align="center" style="background-color:#ff5555; padding: 20px; border-radius: 10px;">
