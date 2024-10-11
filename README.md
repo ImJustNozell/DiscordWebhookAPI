@@ -1,5 +1,3 @@
----
-
 <div align="center" style="background-color:#ff5555; padding: 20px; border-radius: 10px;">
   <h1 style="color: white; font-size: 2.5em;">🎉 Join the BlockForDevs Discord Community! 🎉</h1>
   <p style="font-size: 1.8em; font-weight: bold;">
